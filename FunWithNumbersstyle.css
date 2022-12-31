@@ -5,6 +5,7 @@
 .navigation {
   box-sizing: border-box;
   background-color: #3587A4;
+  color: black;
   overflow: auto;
   padding: 18px 50px;
   position: relative;
